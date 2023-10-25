@@ -11,6 +11,7 @@
 #define significa =
 
 #define intero int
+#define galleggiante float
 #define decimale double
 #define lungo long
 #define corto short
